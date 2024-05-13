@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    background-color: #0ece2e;
+    background-color: #f8f8f8;
     padding: 20px;
     text-align: center;
 }
@@ -33,18 +33,18 @@ section {
     margin-bottom: 20px;
 }
 
-.product {
+.produto {
     border: 1px solid #ccc;
     padding: 10px;
     margin-bottom: 20px;
     text-align: center;
 }
 
-.product img {
+.produto img {
     max-width: 100%;
 }
 
-.price {
+.preco {
     font-weight: bold;
     color: #333;
 }
@@ -58,4 +58,5 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
 
